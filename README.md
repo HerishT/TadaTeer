@@ -242,62 +242,12 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-**Made with ❤️ for the Nepalese Investment Community**
+**Made with ❤️ for the Nepalese Investment Community by:**
+- **Herish Tripathi** - Lead Developer
+- **Arses Pichai** - Developer  
+- **Aaditya Trivedee** - Developer
 
 *TadaTeer - Your gateway to smart investing in Nepal* 🇳🇵
-
-## Project Structure
-
-```
-src/
-├── components/          # React components
-│   ├── ChatbotCard.js   # AI chat interface
-│   ├── DashboardPage.js # Main dashboard
-│   ├── SearchPage.js    # Company search page
-│   ├── ParticleCanvas.js # Background animation
-│   └── Modal.js         # Modal dialogs
-├── hooks/               # Custom React hooks
-│   └── useChat.js       # Chat functionality
-├── services/            # External services
-│   └── geminiService.js # Gemini AI integration
-├── utils/               # Utility functions
-│   └── mockData.js      # Mock financial data
-├── App.js               # Main app component
-├── index.js             # Entry point
-└── index.css            # Global styles
-```
-
-## Usage
-
-1. **Search for a Company**: Enter a company name (e.g., "Nabil Bank", "NTC") on the search page
-2. **Explore Dashboard**: View comprehensive financial data, charts, and AI insights
-3. **Chat with AI**: Ask questions like:
-   - "What was the net profit growth this quarter?"
-   - "Compare revenue with similar companies"
-   - "What are the key risks for this investment?"
-   - "Analyze the financial ratios"
-
-## Technologies Used
-
-- **React**: Frontend framework
-- **Chart.js**: Interactive charts
-- **Tailwind CSS**: Styling
-- **Google Gemini AI**: Natural language processing
-- **Canvas API**: Particle background animation
-
-## Roadmap
-
-This is the frontend foundation. The backend will include:
-- Real-time NEPSE data integration
-- PDF document parsing (OCR)
-- Sentiment analysis from news and reports
-- Advanced financial forecasting models
-- Vector database for semantic search
-- Real market data APIs
-
-## Contributing
-
-This project is in active development. Backend integration and real data sources are coming soon.
 
 ## License
 
