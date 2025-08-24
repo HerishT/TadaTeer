@@ -244,7 +244,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Made with ❤️ for the Nepalese Investment Community by:**
 - **Herish Tripathi** - Lead Developer
-- **Arses Pichai** - Developer  
+- **Arses Prasai** - Developer  
 - **Aaditya Trivedee** - Developer
 
 *TadaTeer - Your gateway to smart investing in Nepal* 🇳🇵
